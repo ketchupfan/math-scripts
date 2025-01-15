@@ -1,4 +1,5 @@
 from math import gcd
+
 multmodgroup = []
 
 target = int(input("Which multiplication integer modulo group? "))
